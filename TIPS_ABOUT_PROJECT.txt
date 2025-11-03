@@ -2,7 +2,13 @@ STEPS TO RUN:
 1) install all python packages (pip install python-tuio)
 2) run main.py file
 3) open the reactivision exe
-4) run the hci ui c# project
+4) run the hci ui c# project from visual studio
+
+IMPORTANT FILES:
+- main.py
+- HCI UI/PatientUI/MainWindow.xaml.cs
+- HCI UI/PatientUI/MainWindow.xaml
+- HCI UI/PatientUI/ExcelDataManager.cs
 
 WE USE TUIO MARKERS:
 0 = SELECTOR WHEEL FOR PATIENT TO SEE THE MEDICATIONS
