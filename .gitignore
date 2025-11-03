@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+/*.exe
+/*.app
+/*.log
+
+# Visual Studio user-specific files
+.vs/
+/*.user
+/*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Excel and schedule/history files (in bin)
+/bin/*.xlsx
+
+# Backup files
+*.bak
+*.tmp
+
+# Python virtual environments, just in case
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# Logs and miscellaneous files
+*.log
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
